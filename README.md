@@ -7,7 +7,6 @@ This is a legitimate DAO Protocol for NFT
 #### **Project Detail**
 
 **Problem in the Decentralized World :** In the realm of digital environments, assessing the authenticity and acceptability of an asset within a thriving and expansive community proves to be a challenging task, even with comprehensive information at hand. In fact, accomplishing this task becomes nearly unattainable in the absence of such information.
-![image](https://github.com/farhanx/NFTLegitimateDAOProtocol/assets/15739782/79390d70-32fa-4103-b0c4-f95343744cf5)
 
 **Solution is DAO Decentralized Autonomous Organization Protocol:**
  
@@ -24,7 +23,7 @@ This is a legitimate DAO Protocol for NFT
 ![](tech-framework.png)
 
 
-#### ** “Asset Legit” Protocol Details! **
+## ** “Asset Legit” Protocol Details! **
 
 We named our protocol “Asset Legit protocol”. In order to achieve this protocol following needs to be addressed. 
 
@@ -84,7 +83,29 @@ Voting only targets if the asset “is fake” or “is authentic”.
 Voting should have the criteria of time limit for each asset
 
 Members with the higher votes on the “is fake” or “is authentic” will get 
-> Reputation points 
-> ALPT tokens as incentives 
+1.  Reputation points 
+2.  ALPT tokens as incentives 
+
+**6. Reputation Management:**
+
+Every DAO Member’s reputation will get increased by voting.
+
+Reputation points will increase based on his current reputation weight.
+
+Every month, 2% of each member’s reputation will decrease.
+
+**7. Asset or Member Dispute Management:  **
+
+Any public user can initiate a dispute on the Asset by paying a fee.
+
+New disputes can create new voting by DAO Members
+
+DAO Members can initiate votes against each other to remove bad actors
+
+Reputation will get effected on bad vote and choices 
+
+## **Further Optimization Requirement **
+
+![](optimization.png)
 
 
