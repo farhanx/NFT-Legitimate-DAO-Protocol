@@ -24,5 +24,18 @@ This is a legitimate DAO Protocol for NFT
 ![](tech-framework.png)
 
 
+#### ** “Asset Legit” Protocol Details! **
+
+We named our protocol “Asset Legit protocol”. In order to achieve this protocol following needs to be addressed. 
+
+**1. DAO Creation**
+A DAO must be created by the community renowned members like Ethereum Foundation, OpenSea, and others. 
+Each Chain must represent its own DAO Creation with respect to a Smart Contract. For instance, Ethereum based contract will cover only Ethereum based assets. (Currently we chose Ethereum)
+
+**2. Asset Legit Protocol ALPT Token**
+The ALPT token will be created to incentivize the members.
+A separate smart contract must be created with lazy minting.
+These tokens should be allowed to trade as an asset.
+
 
 
