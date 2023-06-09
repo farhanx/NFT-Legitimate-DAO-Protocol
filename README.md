@@ -106,6 +106,6 @@ Reputation will get effected on bad vote and choices
 
 ## **Further Optimization Requirement **
 
-![](optimization.png)
+![](optimizations.png)
 
 
