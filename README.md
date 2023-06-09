@@ -30,12 +30,61 @@ We named our protocol “Asset Legit protocol”. In order to achieve this proto
 
 **1. DAO Creation**
 A DAO must be created by the community renowned members like Ethereum Foundation, OpenSea, and others. 
+
 Each Chain must represent its own DAO Creation with respect to a Smart Contract. For instance, Ethereum based contract will cover only Ethereum based assets. (Currently we chose Ethereum)
 
 **2. Asset Legit Protocol ALPT Token**
 The ALPT token will be created to incentivize the members.
+
 A separate smart contract must be created with lazy minting.
+
 These tokens should be allowed to trade as an asset.
 
+
+**3. Members Registration and Verification:**
+  
+To register, a user needs to deposit a membership fee.
+
+Additionally, every user must declare their social identity.
+
+The new joiner must call a verification transaction to DAO with Fee
+
+Joiner shares his social media post with his EOA address.  
+
+The DAO contract will call Chainlink oracle to verify EOA Address
+
+If the Post address matches the joiner’s address he is in. 
+
+Last part is voting by DAO members on the arrival of a new member.
+
+Higher votes allowed the new user to become DAO member.
+
+New joiners will get an initial reputation of 12 points.  
+
+New joiner will get ALPT Tokens against his paid Fees.
+
+**4. Asset Enrollment: **
+ 
+A separate contract must be used for this purpose. 
+
+Anyone can submit an Asset for its audit. 
+
+Asset ID and Contract address must be provided for evaluation.
+
+**5. Asset Voting Consensus :**
+
+The DAO Members can only vote for the asset, not anyone else.
+
+Every member must deposit ALPT tokens to vote for any new asset.
+
+Every Vote will be weighted with respect to the voter’s reputation.
+
+Voting only targets if the asset “is fake” or “is authentic”.
+
+Voting should have the criteria of time limit for each asset
+
+Members with the higher votes on the “is fake” or “is authentic” will get 
+> Reputation points 
+> ALPT tokens as incentives 
 
 
