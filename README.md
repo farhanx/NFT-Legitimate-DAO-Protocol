@@ -129,4 +129,6 @@ There are three contracts created in the contract directory.
     
  4) NFTEVAL.SOL
 
-    
+ ## **Disclaimer **
+
+If you are interested in utilizing this DAO protocol, please contact me for a comprehensive understanding and access to the complete code. This protocol represents a new innovation, and I am more than willing to provide further details. However, please note that while the uploaded code and framework are freely available for use, it is essential to thoroughly review and assess them to ensure their suitability for your specific needs. I cannot be held responsible for any potential consequences or damages arising from the use of this protocol. Kindly exercise due diligence and consult with appropriate experts before implementing it in any environment. ( Farhan Khan)
